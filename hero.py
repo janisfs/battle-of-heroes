@@ -9,7 +9,7 @@ class Hero:
 
     def attack(self, other):
         if self.is_alive():
-            damage = random.randint(10, 20)
+            damage = random.randint(5, 20)
             other.health -= damage
             print(f"{self.name} атаковал {other.name} и нанес {damage} урона.")
 
