@@ -1,2 +1,2 @@
 # battle of heroes
- battle of heroes creation+kanban tools
+ battle of heroes game creation
