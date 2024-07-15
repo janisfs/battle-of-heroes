@@ -1,6 +1,7 @@
 # hero.py
 import random
 
+
 class Hero:
     def __init__(self, name, health=100, attack_power=20):
         self.name = name
